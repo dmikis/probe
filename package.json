@@ -1,0 +1,12 @@
+{
+    "name": "probe",
+    "version": "0.0.1",
+    "author": "Kirill Dmitrenko <kdmitrenko@gmail.com> <http://github.com/dmikis/>",
+    "scripts": {
+        "start": "node probe.js"
+    },
+    "dependencies": {
+        "express": "3.0.0rc2",
+        "browserify": "1.14.5"
+    }
+}
